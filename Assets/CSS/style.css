@@ -309,6 +309,14 @@ section {
     color: var(--secondary-color);
 }
 
+.work-grid-item.artist-store {
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+    background-image: url(../Images/Screen\ Shot\ 2021-03-30\ at\ 5.25.16\ PM.png);
+    background-size: cover;
+    color: var(--secondary-color);
+}
+
 
 .work-grid-item.runbuddy {
     grid-column: 1 / span 1;
