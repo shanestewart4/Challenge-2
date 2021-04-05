@@ -301,14 +301,6 @@ section {
     text-align: center;
 }
 
-.work-grid-item.victors {
-    grid-column: 1 / span 2;
-    grid-row: 1 / span 2;
-    background-image: url(../Images/Screen\ Shot\ 2021-02-08\ at\ 3.07.05\ PM.png);
-    background-size: cover;
-    color: var(--secondary-color);
-}
-
 .work-grid-item.artist-store {
     grid-column: 1 / span 2;
     grid-row: 1 / span 2;
@@ -338,10 +330,10 @@ section {
     background-size: cover;
 }
 
-.work-grid-item.clanton {
+.work-grid-item.victors {
     grid-column: 1;
     grid-row: 3;
-    background-image: url(../Images/Screen\ Shot\ 2020-10-13\ at\ 11.31.18\ AM.png);
+    background-image: url(../Images/Screen\ Shot\ 2021-02-08\ at\ 3.07.05\ PM.png);
     background-size: cover;
 }
 
@@ -363,7 +355,7 @@ section {
 
 .work {
     background: var(--primary-color);
-    height: 600px;
+    height: 1000px;
 }
 
 .work-grid-wrapper {
